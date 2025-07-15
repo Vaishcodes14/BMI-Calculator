@@ -96,3 +96,18 @@ Enter your height in meters (m): 1.7
 ✅ Your BMI is: 20.76
 📊 You are classified as: Normal weight
 
+📚 What I Learned
+Applying real‑world formulas in Python: Implemented the BMI formula in a function to solve a practical problem.
+
+Function creation & modular design: Structured logic into reusable functions for clarity and maintainability.
+
+User input handling: Practiced capturing and converting input via input() and float().
+
+Conditional logic: Used if-elif-else to classify BMI into health categories.
+
+Input validation & error handling: Added checks for zero/negative inputs to avoid invalid calculations.
+
+Clean output formatting: Formatted results with f‑strings (e.g., f"{bmi:.2f}") for readability.
+
+Project documentation: Learned to craft a clear README.md to explain purpose, usage, and learning outcomes.
+
