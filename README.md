@@ -41,5 +41,58 @@ A beginner-friendly Python project to calculate **Body Mass Index (BMI)** using 
 ### On your system:
 1. Save the code in a file named `bmi_calculator.py`
 2. Run it using:
+
+# 🧮 BMI Calculator
+
+A beginner-friendly Python project that calculates the **Body Mass Index (BMI)** from user input and classifies health status based on standard BMI ranges. This project is ideal for learning how to apply formulas, work with functions, and handle user input/output in Python.
+
+---
+
+## 📌 Features
+
+- Accepts user input for weight (in kilograms) and height (in meters)
+- Calculates BMI using the standard formula:
+  \[
+  \text{BMI} = \frac{\text{Weight (kg)}}{(\text{Height (m)})^2}
+  \]
+- Classifies the result into standard BMI categories:
+  - Underweight
+  - Normal weight
+  - Overweight
+  - Obese
+- Handles invalid input (e.g., zero or negative numbers)
+- Displays the BMI value and health status in a clean format
+
+---
+
+## ⚙️ Tech Stack
+
+| Tool / Concept      | Purpose                            |
+|---------------------|-------------------------------------|
+| Python 3            | Core programming language           |
+| Functions           | Modular structure and logic         |
+| Arithmetic Operators| To perform BMI calculation          |
+| Conditional Statements | For classification logic         |
+| Input/Output        | User interaction                    |
+| Exception Handling  | Graceful input error management     |
+
+---
+
+## 🚀 How to Run
+
+### 🟡 Run via Python File
+
+1. Download or clone the repository.
+2. Open a terminal and navigate to the project folder.
+3. Run the script using:
+
 ```bash
 python bmi_calculator.py
+
+🧮 Welcome to the BMI Calculator!
+Enter your weight in kilograms (kg): 60
+Enter your height in meters (m): 1.7
+
+✅ Your BMI is: 20.76
+📊 You are classified as: Normal weight
+
