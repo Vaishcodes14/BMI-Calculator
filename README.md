@@ -44,7 +44,6 @@ A beginner-friendly Python project to calculate **Body Mass Index (BMI)** using 
 ```bash
 python bmi_calculator.py
 
----
 ## 📷 5. Sample Output
 
 Show what the output looks like when someone runs your code. This can be a text block or a screenshot (if available).
@@ -58,6 +57,9 @@ Enter your height in meters (m): 1.7
 
 ✅ Your BMI is: 20.76  
 📊 You are classified as: Normal weight
+
+
+
 
 ## 📚 What I Learned
 - How to take user input and convert it to numbers
